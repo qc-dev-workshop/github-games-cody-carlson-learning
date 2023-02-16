@@ -1,4 +1,5 @@
 ## Welcome to GitHub Games!!
+
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: https://qc-dev-workshop.github.io/github-games-cody-carlson-learning/
